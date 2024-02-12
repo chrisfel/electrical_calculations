@@ -32,8 +32,8 @@ feederCircuitProtection.innerHTML =
 						<td><input type="text" id="txtflcII" class ="stepI" placeholder="enter flc" value="" maxlength="5" size="4"></td>
 						</tr>
 						<tr>
-						<!--<td><label class="input">FLC Motor III: </label></td>
-						<td><input type="text" id="txtflcIII" class ="stepI" placeholder="enter flc" value="" maxlength="5" size="4"></td>-->
+						<td><label class="input">FLC Motor IV: </label></td>
+						<td><input type="text" id="txtflcIII" class ="stepI" placeholder="enter flc" value="" maxlength="5" size="4"></td>
 						</tr>
 						<tr>
 						
